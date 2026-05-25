@@ -85,6 +85,10 @@ Files Included
 
 ---
 
+Project Overview
+
+<img width="1366" height="768" alt="Zepto_SQL_Dashboard" src="https://github.com/user-attachments/assets/0d21a5cd-0513-4a2d-82eb-ffa73f730f50" />
+
 Author
 
 Shruti
